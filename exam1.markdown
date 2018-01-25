@@ -1,3 +1,5 @@
+# Introduction
+
 On m'a demandé de vous parler de notre rapport au temps et de notre gestion du temps. Remarquons d'abord que notre temps nous est donné de manière finie. Nous avons peu de prise sur l'écoulement du temps, et nous avons peu de prise sur la durée qu'il nous reste à vivre, même si évidemment la manière dont nous organisons notre vie et la manière dont nous agissons ont cependant un impact certain sur cette durée.
 
 Pour le dire autrement, autant nous ne décidons pas du terme de notre vie, autant nous pouvons la raccourcir par nos actes. Nous pouvons aussi plus ou moins bien réussir à organiser nos activités dans nos journées.
@@ -22,6 +24,8 @@ Je vais donc rapidement vous rassurer en affirmant que ces impressions négative
 
 Saint François de Sales appelle **vie dévote**, notre vie quand elle se laisse embrasser par la tendresse de Dieu, notre créateur et Notre Père Adoptif. Et nous allons voir maintenant que l'examen de conscience, n'a rien à voir avec une sorte d'auto-inquisition ou d'auto-flagellation, c'est bien au contraire prendre le temps chaque soir d'être bienveillant avec soi-même avec douceur et mansuétude, en prenant l'habitude de nous laisser porter par la tendresse et la sagesse de notre  Père Céleste.
 
+# L'examen de conscience
+
 Entrons dans le vif du sujet, et voyant les étapes que nous propose Saint François de Salle pour réaliser notre examen de conscience chaque soir. Je reste extrêmement proche du texte même si je le modifie pour le rendre plus compréhensible.
 
 1. Nous commençons par remercier Dieu de nous avoir permis de vivre une journée supplémentaire.
@@ -38,6 +42,8 @@ Saint François de Sales, ajoute alors : " Cet exercice ici ne doit jamais être
 Ces expressions sont fortes, peut-être certains les trouverons trop fortes, tant la notion d'enfer n'a pas forcément la cote aujourd'hui ! Cependant, je crois que cette remarque est au contraire très intelligente. Ne pas faire son examen de conscience chaque soir, c'est prendre le risque de voir peu à peu augmenter en nous le **Taedium Sui**, le dégoût de soi, et le ressentiment à l'égard de soi. Or ces deux émotions sont destructrices à plus ou moins brève échéance.
 
 C'est pourquoi, j'ajouterais même une étape à cet examen de conscience ainsi présenté. Je pense que je la placerais en 3', pour respecter la vertu de douceur à l'égard de soi. Je vous conseillerais d'examiner votre journée en faisant la liste des blessures que vous avez ressenties, soit dans telle ou telle frustration, soit par l'action blessante de telle ou telle personne. Puis je vous recommanderais alors de confier toutes ces blessures, au baume réconfortant de la Tendresse divine, afin qu'elles ne s'infectent pas pendant la nuit.
+
+## L'oraison du matin
 
 Voyons maintenant ce qu'il appelle l'**oraison du matin** :
 
