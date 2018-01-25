@@ -43,7 +43,7 @@ Ces expressions sont fortes, peut-être certains les trouverons trop fortes, tan
 
 C'est pourquoi, j'ajouterais même une étape à cet examen de conscience ainsi présenté. Je pense que je la placerais en 3', pour respecter la vertu de douceur à l'égard de soi. Je vous conseillerais d'examiner votre journée en faisant la liste des blessures que vous avez ressenties, soit dans telle ou telle frustration, soit par l'action blessante de telle ou telle personne. Puis je vous recommanderais alors de confier toutes ces blessures, au baume réconfortant de la Tendresse divine, afin qu'elles ne s'infectent pas pendant la nuit.
 
-## L'oraison du matin
+# L'oraison du matin
 
 Voyons maintenant ce qu'il appelle l'**oraison du matin** :
 
@@ -60,6 +60,8 @@ Voyons maintenant ce qu'il appelle l'**oraison du matin** :
 11. Remettons cette fragilité et cette petitesse à la puissance de Jésus Ressuscité, qui par l'Abandon au Père et par la Grâce du Père a vécu la transformation des épines de la mort en belles roses de vie.
 12. Enfin invoquons Notre Dame, notre Ange Gardien et les Saints pour qu'ils nous assistent dans cette amitié avec Jésus et dans cet abandon au Père.
 
+# Devenir un bon pianiste
+
 Un certain nombre d'entre vous pourraient trouver ces 2 exercices un peu long à réaliser chaque jour. Peut-être certains pourraient même se dire que c'est une perte de temps par rapport à l'ampleur des tâches qu'ils ont à réaliser ce jour-là. Certains préfèreraient peut-être mieux connaître des méthodes d'organisation du temps utilisées dans le monde de l'entreprise, telle la méthode GTD (Getting Things Done) de l'américain David Allen.
 
 Cependant, plus j'avance en âge et en connaissance de la sagesse chrétienne, plus je trouve que c'est faire fausse route de croire cela. En effet les conseils de Saint François de Sales, sont plus intelligents que ce que peut nous offrir assez souvent notre monde moderne, car le monde moderne refuse souvent de considérer les recommandations qui nous viennent directement de Dieu, préférant les conseils de simples créatures imparfaites. Le savoir des créatures existe évidemment mais il n'est presque rien par rapport au savoir du Créateur.
@@ -74,11 +76,17 @@ Concernant la gestion du temps, il en va de même. Il nous faut d'abord faire le
 
 Pour reprendre la métaphore du pianiste, et je suis évidemment très en-deçà  de la réalité en disant cela, nous autres, hommes modernes, nous nous extasions devant nos claviers bontempi, alors que nous avons depuis toujours à disposition immédiate, un piano à queue de concert, qui en plus n'a nullement besoin d'électricité pour sonner mille fois mieux !
 
+# Les vertus à développer pour mieux gérer son temps
+
 Pour réussir à réaliser ces 2 exercices quotidiens, Saint François de Sales nous recommande de prendre soin de développer trois vertus : la patience, l'humilité et la douceur. Évidemment, ces vertus seront plus faciles à développer si vous prenez résolument la décision de développer, avec l'aide de Dieu, les 7 autres vertus que représentent les quatre vertus cardinales, le courage, la tempérance, la justice, la prudence, et les trois vertus théologales, la Foi, l'Espérance et la Charité. Il n'est pas anodin cependant que Saint François de Sales nous conseille particulièrement ces 3 vertus, la patience qui relève du courage, l'humilité et la douceur qui relèvent de la tempérance.
+
+## La patience
 
 La patience, nous en avons besoin dès maintenant car il faut du temps pour réussir à faire bien ces 2 exercices. Si vous commencez ce soir pour la première fois, il vous faudra être patient avec vous-même. Il en va de même pour le pianiste débutant qui voudrait réussir à jouer les impromptus variés de Schubert. Il ne va pas réussir dès la première fois. Il lui faut accepter de commencer par des exercices plus courts et plus simples. L'important, c'est de commencer, et surtout l'important c'est d'être régulier dans l'exercice. Tout musicien sait qu'il vaut mieux 5 minutes tous les jours, qu'une heure par semaine. Il en va de même pour l'examen de conscience. Soyez patients avec vous-même, il nous faut du temps pour réussir à bien écouter notre syndérèse, je vous dirai pourquoi à la fin de cet article.
 
 Ce qui importe, c'est que tous les soirs et tous les matins, vous vous mettiez dans les bras du Père, et même si vous n'arrivez pas à faire correctement toutes les étapes de chaque exercice, ou même que vous n'arriviez pas à faire toutes les étapes. Ce qui compte c'est déjà de faire l'effort de remettre chaque journée à Dieu. Dieu vous guidera et vous fortifiera pour la suite.
+
+## L'humilité
 
 La vertu d'humilité est importante car c'est elle qui nous fait prendre conscience de notre fragilité, de notre faiblesse, de notre petitesse. Grâce à elle nous apprenons peu à peu à nous en remettre de plus en plus à Notre Père. La vertu d'humilité est évidemment très mal comprise par notre monde moderne. En effet, être moderne, on le voit bien à la lecture du livre d'Emmanuel Kant, Qu'est-ce que les lumières ?, c'est croire que nous sommes assez grands pour nous débrouiller tous seuls dans la vie. Nous n'aurions plus besoin de l'aide de nos aînés (sauf bien évidemment nos modernes aînés, contradiction évidente que peu de personnes relève), surtout pas de l'aide de l'Église, et encore moins de l'aide de Dieu.
 
@@ -92,11 +100,15 @@ Qui pourrait dire avec certitude maintenant qu'il sait tout de ses propres talen
 
 Avec l'humilité accrue, il nous sera plus facile de trier les différentes activités de la journée en écartant l'inutile et en prenant soin de l'essentiel. Bien évidemment, l'humilité est un long chemin qui requiert de la patience pour l'emprunter.
 
+## La douceur
+
 J'espère qu'avec tout ce qui vient d'être dit, la vertu de douceur vous apparaîtra nécessaire pour réussir à progresser dans la réalisation de ces deux exercices que sont l'examen de conscience et l'oraison du matin. La douceur n'est pas seulement la vertu qui modère la colère, colère contre les autres mais aussi, et surtout ici, colère contre soi. La douceur est aussi la tendresse à l'égard de soi. C'est le fait de savoir chaque jour s'accueillir soi-même comme un petit enfant fragile qui a besoin de protection, de réconfort, de chaleur humaine, de confiance inconditionnelle, pour pouvoir grandir, pour pouvoir développer son plein potentiel. Prendre le temps chaque soir et chaque matin de nous en remettre entre les bras tendre du Père, c'est d'abord et avant tout faire preuve de douceur et de tendresse à l'égard de soi-même.
 
 En faisant preuve de douceur avec nous-même nous développons notre vertu de douceur qui sera si agréable à vivre pour ceux qui vivent avec nous. Plus encore, en faisant preuve de douceur, nous imitons pleinement Jésus en nous en remettant à la tendresse du Père. Jésus ne dit-il pas en effet : " Sachez que je suis doux et humble de cœur " (Matthieu 11,29) ? N'est-ce pas pour cette raison qu'il peut nous dire : " Mon joug est facile et mon fardeau léger " ?
 
 En développant la douceur à l'égard de soi, nous développons l'humilité et la patience, ainsi que tous les autres vertus, car la douceur à l'égard de soi est un fruit de la charité vis-à-vis de soi : or toutes les vertus sont fortifiées par la vertu de charité !
+
+# Les entraves qui nous empêche de réaliser un bon examen de conscience
 
 Je voudrais revenir maintenant sur ce qui nous empêche dans l'exercice de l'examen de conscience de bien écouter notre syndérèse, c'est-à-dire la petite voix de notre conscience. Ces entraves n'agissent d'ailleurs par seulement lors de cet examen, mais à chaque fois que nous devons prendre une décision. Or nous avons de nombreuses petites décisions à prendre chaque jour, n'est-ce pas ?
 
