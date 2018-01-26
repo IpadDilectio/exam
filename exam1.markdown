@@ -30,7 +30,10 @@ Saint François de Sales appelle **vie dévote**, notre vie quand elle se laisse
 Entrons dans le vif du sujet, et voyons les étapes que nous propose Saint François de Sales pour réaliser notre examen de conscience chaque soir. Je reste extrêmement proche du sens du texte, même si je le modifie pour le rendre plus compréhensible.
 
 1. Nous commençons par remercier Dieu de nous avoir permis de vivre une journée supplémentaire.
-2. Nous examinons ensuite comment nous nous sommes comportés à chaque heure de cette journée. Pour réussir à bien faire cet examen, nous nous remémorons les lieux où nous avons été, les personnes que nous avons rencontrées, et les activités que nous avons faites.
+2. Nous examinons ensuite comment nous nous sommes comportés à chaque heure de cette journée. Pour réussir à bien faire cet examen, nous nous remémorons : 
+        - les lieux où nous avons été, 
+        - les personnes que nous avons rencontrées, 
+        - et les activités que nous avons faites.
 3. Dans cet examen de notre comportement, nous regardons d'abord le bien que nous avons fait. Nous remercions alors Dieu, de nous avoir créé pour faire ce bien, et de nous avoir aidé à le faire.
 4. Puis, nous regardons si nous avons eu de mauvaises pensées, si nous avons mal parlé, et si nous avons mal agi, dans cet ordre. Alors, nous nous en remettons à la tendresse de Notre Père Céleste et nous lui demandons pardon.
 5. Nous prenons alors la résolution de penser mieux, de parler mieux et d'agir mieux le lendemain. Nous lui demandons aussi de nous fortifier pour que nous réussissions à tenir cette résolution.
