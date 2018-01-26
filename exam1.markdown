@@ -143,6 +143,7 @@ Comme les Principautés semblent avoir le pouvoir d'influencer notre imagination
 
 Comme malheureusement, il n'est pas facile de réaliser ce discernement seul, je comprends pourquoi Saint François de Sales insiste sur l'importance de l'examen de conscience et de l'oraison du matin. Cela nous apprend peu à peu à nous en remettre à l'action de l'Esprit Saint en nous.
 
+# Le directeur spirituel
 Il insiste aussi sur l'importance de trouver un directeur spirituel qui soit plein de charité, de science et de prudence pour nous aider à progresser dans la dévotion, c'est-à-dire à apprendre à se laisser guider de plus en plus par la Sagesse et la Tendresse du Père. Je ne sais pas dire si c'est en raison de l'influence de Molière, avec sa pièce Le Tartuffe, qui nous a rendu méfiant vis-à-vis des directeurs spirituels en raison de l'hypocrisie de certains, ou en raison de l'influence des modernes qui nous incitent à l'autonomie plutôt qu'aux conseils de prudence, ou en raison du manque de charité dont auraient fait preuve certains conseillers que nous avons rencontrés par le passé, ou encore en raison de ressentiments encore présents en nous liés à des trahisons passées, ou encore en raison des affaires diverses et variées qui touchent notre Église et dont le médias aiment tant nous parler, mais j'ai l'impression qu'il n'est pas facile pour nous d'entendre ce conseil de chercher un directeur spirituel.
 
 François de Sales nous recommande d'en demander un à Dieu et d'accepter celui qu'il nous donnera. Est-ce facile à faire aujourd'hui ?
