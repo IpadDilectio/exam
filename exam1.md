@@ -134,6 +134,7 @@ Voici donc les principales entraves que nous pouvons rencontrer :
 7. Et enfin, nos ressentiments. Je dois à Frédéric Nietzsche de m'avoir fait prendre conscience de ce sentiment même si je l'ai mieux compris grâce à Max Scheler. Le ressentiment naît en nous quand nous éprouvons un sentiment d'injustice doublé d'un sentiment d'impuissance. C'est un sentiment parfois difficile à détecté car il est souvent refoulé. L'une de ses actions sur nous, c'est de modifier le sens des valeurs. En d'autre terme, il vient déformer ce que nous dit notre syndérèse, empêchant la syndérèse d'éclairer correctement nos actions. Cela peut aller jusqu'à l'inversion des valeurs.
 
 #L'examen de conscience comme protection vis à vis des Principautés
+
 Je voudrais terminer cet article en redisant ce que Saint Paul nous dit dans sa lettre aux Éphésiens, chap. 6, v. 12 :
 >« Car nous ne luttons pas contre des êtres de sang et de chair, mais contre les Dominateurs de ce monde de ténèbres, les Principautés, les Souverainetés, les esprits du mal qui sont dans les régions célestes. »
 
@@ -142,6 +143,8 @@ Après avoir écouté l'enseignement qui a été donné cet été (2017) à la S
 Comme les Principautés semblent avoir le pouvoir d'influencer notre imagination, nos désirs et nos émotions, il me semble bon en effet d'apprendre à discerner quelles sont les images, les désirs et les émotions qu'il nous faut conserver, et ceux que nous devons rejeter. En apprenant à distinguer ce que nous voulons, de ce que nous imaginons, nous désirons ou ressentons, nous pouvons peu à peu reprendre le contrôle de notre vie.
 
 Comme malheureusement, il n'est pas facile de réaliser ce discernement seul, je comprends pourquoi Saint François de Sales insiste sur l'importance de l'examen de conscience et de l'oraison du matin. Cela nous apprend peu à peu à nous en remettre à l'action de l'Esprit Saint en nous.
+
+# Le directeur spirituel
 
 Il insiste aussi sur l'importance de trouver un directeur spirituel qui soit plein de charité, de science et de prudence pour nous aider à progresser dans la dévotion, c'est-à-dire à apprendre à se laisser guider de plus en plus par la Sagesse et la Tendresse du Père. Je ne sais pas dire si c'est en raison de l'influence de Molière, avec sa pièce Le Tartuffe, qui nous a rendu méfiant vis-à-vis des directeurs spirituels en raison de l'hypocrisie de certains, ou en raison de l'influence des modernes qui nous incitent à l'autonomie plutôt qu'aux conseils de prudence, ou en raison du manque de charité dont auraient fait preuve certains conseillers que nous avons rencontrés par le passé, ou encore en raison de ressentiments encore présents en nous liés à des trahisons passées, ou encore en raison des affaires diverses et variées qui touchent notre Église et dont le médias aiment tant nous parler, mais j'ai l'impression qu'il n'est pas facile pour nous d'entendre ce conseil de chercher un directeur spirituel.
 
