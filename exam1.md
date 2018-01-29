@@ -35,7 +35,6 @@ Entrons dans le vif du sujet, et voyons les étapes que nous propose Saint Fran�
         - les personnes que nous avons rencontrées, 
         - et les activités que nous avons faites.
 3. Dans cet examen de notre comportement, nous regardons d'abord le bien que nous avons fait. Nous remercions alors Dieu, de nous avoir créé pour faire ce bien, et de nous avoir aidé à le faire.
-
 4. Puis, nous regardons si nous avons eu de mauvaises pensées, si nous avons mal parlé, et si nous avons mal agi, dans cet ordre. Alors, nous nous en remettons à la tendresse de Notre Père Céleste et nous lui demandons pardon.
 5. Nous prenons alors la résolution de penser mieux, de parler mieux et d'agir mieux le lendemain. Nous lui demandons aussi de nous fortifier pour que nous réussissions à tenir cette résolution.
 6. Nous confions notre corps, notre âme, l'Église, les membre de notre famille, les amis, à la Providence divine.
@@ -135,6 +134,7 @@ Voici donc les principales entraves que nous pouvons rencontrer :
 7. Et enfin, nos ressentiments. Je dois à Frédéric Nietzsche de m'avoir fait prendre conscience de ce sentiment même si je l'ai mieux compris grâce à Max Scheler. Le ressentiment naît en nous quand nous éprouvons un sentiment d'injustice doublé d'un sentiment d'impuissance. C'est un sentiment parfois difficile à détecté car il est souvent refoulé. L'une de ses actions sur nous, c'est de modifier le sens des valeurs. En d'autre terme, il vient déformer ce que nous dit notre syndérèse, empêchant la syndérèse d'éclairer correctement nos actions. Cela peut aller jusqu'à l'inversion des valeurs.
 
 #L'examen de conscience comme protection vis à vis des Principautés
+
 Je voudrais terminer cet article en redisant ce que Saint Paul nous dit dans sa lettre aux Éphésiens, chap. 6, v. 12 :
 >« Car nous ne luttons pas contre des êtres de sang et de chair, mais contre les Dominateurs de ce monde de ténèbres, les Principautés, les Souverainetés, les esprits du mal qui sont dans les régions célestes. »
 
@@ -145,6 +145,7 @@ Comme les Principautés semblent avoir le pouvoir d'influencer notre imagination
 Comme malheureusement, il n'est pas facile de réaliser ce discernement seul, je comprends pourquoi Saint François de Sales insiste sur l'importance de l'examen de conscience et de l'oraison du matin. Cela nous apprend peu à peu à nous en remettre à l'action de l'Esprit Saint en nous.
 
 # Le directeur spirituel
+
 Il insiste aussi sur l'importance de trouver un directeur spirituel qui soit plein de charité, de science et de prudence pour nous aider à progresser dans la dévotion, c'est-à-dire à apprendre à se laisser guider de plus en plus par la Sagesse et la Tendresse du Père. Je ne sais pas dire si c'est en raison de l'influence de Molière, avec sa pièce Le Tartuffe, qui nous a rendu méfiant vis-à-vis des directeurs spirituels en raison de l'hypocrisie de certains, ou en raison de l'influence des modernes qui nous incitent à l'autonomie plutôt qu'aux conseils de prudence, ou en raison du manque de charité dont auraient fait preuve certains conseillers que nous avons rencontrés par le passé, ou encore en raison de ressentiments encore présents en nous liés à des trahisons passées, ou encore en raison des affaires diverses et variées qui touchent notre Église et dont le médias aiment tant nous parler, mais j'ai l'impression qu'il n'est pas facile pour nous d'entendre ce conseil de chercher un directeur spirituel.
 
 François de Sales nous recommande d'en demander un à Dieu et d'accepter celui qu'il nous donnera. Est-ce facile à faire aujourd'hui ?
