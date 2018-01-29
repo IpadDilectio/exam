@@ -1,0 +1,48 @@
+# Ne suis-je qu’un ensemble de molécules ?
+
+## Introduction
+
+Selon Xénophon dans ses _Mémorables_ (IV, 2, 24-25), c'est de l'oracle de Delphes que Socrate a recueilli le célèbre précepte : **« Connais-toi toi-même »**. En interprétant cet ordre du Dieu Apollon comme un programme et une méthode, Socrate proposait à ses successeurs de travailler à se connaître afin de se rendre meilleur.
+
+Étienne Gilson dans son livre, _L'esprit de la philosophie médiévale_, au chap. XI, p. 221, nous fait connaître les interrogations que Bernard de Clairvaux (1090-1153) soulèvent face à cette réponse de l'oracle de Delphe :
+>« Quel est, se demande-t-il, le sens de la réponse d'Apollon ? C'est qu'il y a 2 causes qui font que nous nous ignorons nous-mêmes : une timidité excessive qui nous porte à nous humilier outre mesure, une témérité plus dangereuse encore, qui nous invite à trop présumer de nous-mêmes. Orgueil et présomption, pusillanimité et désespoir de soi, voilà les deux dangers qui nous assiègent sans cesse ; on se débarrase de l'orgueil en s'éprouvant, de la pusillanimité en prenant conscience de notre vraie nature et le véritable terme de la connaissance de soi est de concilier ces deux aspects nécessaires du problème, en nous tenant à égale distance des deux aveuglements dont nous souffrons. On voit proindre ici, et même se dessiner déjà nettement, le thème que les historiens de la littérature connaissent bien pour l'avoir lu dans la langue magnifique de Pascal : _Grandeur et misère de l'homme_.
+
+Même si on ne partage pas la pensée chrétienne de Bernard de Clairvaux, il est assez aisé cependant de reconnaître avec lui que les 2 causes de notre ignorance existe bel et bien. C'est pourquoi la question de savoir véritablement ce que nous sommes s'avère essentielle.
+
+Malheureusement, il existe plusieurs hypothèses difficile à partager. Le but de ce cours va être de vous en présenter un certain nombre pour que vous puissiez cheminer sur le chemin d'une meilleure connaissance de vous-même. Certaines hypothèses auront peut-être plus votre préférence que d'autres. Peu importe. Cependant, est-ce la satisfaction de notre préférence que nous cherchons, ou est-ce la vérité ?
+
+## Trois erreurs à éviter pour bien se repérer dans les différentes hypothèses
+
+Ses erreurs viennent du fait que nous sommes dans un pays de culture chrétienne qui a oublié ses racines chrétiennes. À la fois nous sommes influencés, en le sachant plus ou moins, par le christianisme, et à la fois nous le connaissons très mal.
+
+Cela nous empêche de nous repérer de manière adéquate car nous pouvons rejeter le christianisme en le prenant pour ce qu'il n'est pas, ou au contraire le choisir pour de mauvaises raisons. Nous pouvons aussi y être complètement indifférent et cependant s'inscrire sans le savoir dans son anthropologie ou inversement s'inscrire dans une anthropologie venant d'une autre religion, sans savoir qu'elle vient d'une autre religion.
+
+Utiliser les vraies hypothèses chrétiennes en comparaison des autres hypothèses disponibles, permet il me semble, de former son esprit critique. En effet, n'avoir qu'une seule hypothèse serait réducteur, et rejeter les hypothèses chrétiennes parce qu'elles sont justement chrétiennes serait pour le moins étrange pour quelqu'un voulant former son esprit critique. Pour réellement choisir, ne faut-il pas avoir plusieurs possibilités ?
+
+Je vais donc essayer de vous aider à vous repérer en vous présentant plusieurs hypothèses, dont l'hypothèse chrétienne, mais pas seulement.
+
+### Confusion entre connaissance certaine et connaissance exhaustive
+
+Un certain nombre de personnes semblent penser qu'il serait impossible de se connaître étant donné la complexité de la nature humaine et du fait que différentes sciences très diverses l'étudient. Il est vrai que les données de la biologie ne sont pas toujours compatibles avec les données de la psychologie, de la sociologie et de l'histoire. À supposer déjà, que les données de la biologie soient toujours fiables, comme il en va d'ailleurs de même pour les autres sciences qui étudient l'homme.
+
+Ce serait une erreur cependant de croire que nous ne pourrions pas du tout nous connaître. Nous retrouvons dans cette erreur, l'une des 2 causes présentées par Bernard de Clairvaux : à cause de la complexité de notre nature, nous pouvons par timidité excessice croire que nous ne pouvons pas du tout nous connaître.
+
+Nous pouvons nous connaître en partie, mais pas entièrement, voilà la réponse adéquate. C'est justement ce que veut dire la distinction conceptuelle entre **connaissance certaine** et **connaissance exhaustive**.
+
+La **connaissance exhaustive** serait la connaissance qui nous permettrait de connaître l'ensemble complet des causes d'un phénomène. La connaissance exhaustive de l'homme serait donc de connaître l'ensemble des causes qui seraient à l'origine de l'homme, en y intégrant sans doute aussi les causes finales.
+
+La **connaissance certaine** consiste à connaître une partie des causes qui explique un phénomène de manière certaine. Autant il est difficile de croire qu'un homme puisse dire qu'il possède **une connaissance exhaustive certaine** de l'homme, autant il est crédible de posséder une **connaissance partielle certaine** de l'homme. Nous ne connaissons pas tout de nous même, mais nous connaissons certaines choses quand même.
+
+### 2 autres Erreurs concernent l'hypothèse anthropologique chrétienne
+
+#### 2ème erreur : Confondre l'hypothèse chrétienne avec l'hypothèse anthropologique dualiste
+
+L'homme serait dans cette hypothèse constitué d'un corps et d'une âme séparée. Le corps ne serait qu'un véhicule passager de l'âme qui pourrait très bien exister avant ce corps, et continuer d'exister après. Nous trouvons cette hypothèse dans de nombreuses religions orientales, mais aussi dans la pensée de Platon. Le panthéisme de Plotin, relève aussi en un sens de cette pensée, ce qui peut paraître étrange à première vue puisque le panthéisme ressemble plutôt à un monisme.
+
+Pour le christianisme le dualisme est exclu. Dans la lettre à Thimotée, Paul de Tarse, semble plutôt donner trois principe, le corps, l'âme et l'esprit. Mais si on prend l'ensemble de la Bible, on voit que ces principes loin de s'opposer, s'unissent.
+
+Ainsi le terme âme, _nephes_ en hébreux, veut dit tout aussi bien dire dans l'Ancien Testament **vie** que **animal**, et dans le Nouveau Testament, il finit par désigner **la personne** elle-même. Cette âme reçoit la vie de l'esprit, _ruah_ en hébreux, de la sorte que la chair, en hébreux _basar_, qui peut signifier dans le Nouveau Testament, un élément de l'homme ou le corps entier, indique fréquemment l'homme dans sa totalité concrète.
+
+Ainsi dans le christianisme, loin de s'exclure les trois termes de corps, âme et esprit s'appelent les uns les autres. Cela ne facilite pas forcément la compréhension d'ailleurs.
+
+#### 3ème erreur : voir l'hypothèse chrétienne comme une condamnation du corps
