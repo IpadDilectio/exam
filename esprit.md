@@ -19,7 +19,7 @@ Cela nous empêche de nous repérer de manière adéquate car nous pouvons rejet
 
 Utiliser les vraies hypothèses chrétiennes en comparaison des autres hypothèses disponibles, permet il me semble, de former son esprit critique. En effet, n'avoir qu'une seule hypothèse serait réducteur, et rejeter les hypothèses chrétiennes parce qu'elles sont justement chrétiennes serait pour le moins étrange pour quelqu'un voulant former son esprit critique. Pour réellement choisir, ne faut-il pas avoir plusieurs possibilités ?
 
-Je vais donc essayer de vous aider à vous repérer en vous présentant plusieurs hypothèses, dont l'hypothèse chrétienne, mais pas seulement.
+Je vais donc essayer de vous aider à vous repérer en vous présentant plusieurs hypothèses, dont l'hypothèse chrétienne, mais pas seulement. Pour réaliser ce cours, j'essaie de faire la synthèse du chapitre V du livre de Jean-Marie Vernier, _De l'homme à Dieu et retour_, aux éditions L'Harmattan. 
 
 ### Confusion entre connaissance certaine et connaissance exhaustive
 
@@ -46,3 +46,13 @@ Ainsi le terme âme, _nephes_ en hébreux, veut dit tout aussi bien dire dans l'
 Ainsi dans le christianisme, loin de s'exclure les trois termes de corps, âme et esprit s'appelent les uns les autres. Cela ne facilite pas forcément la compréhension d'ailleurs.
 
 #### 3ème erreur : voir l'hypothèse chrétienne comme une condamnation du corps
+
+Le fait de condamner le corps n'est pas conforme à l'hypothèse chrétienne et correspond plutôt à une hérésie qu'on appelle le manichéisme, qui a été fondé par Mani (ou Manès) né en 216 et mort en 274 ou 277. Cette représentation du monde considère que Dieu est lumière et que la matière ténébreuse ne peut venir de lui. Le corps est donc mauvais et tout ce qui en procède doit être rejeté par ceux qui connaissent la vérité.
+
+Augustin d'Hippone qui a fait partie de cette croyance pendant 9 ans l'a combattue une fois devenu chrétien dans plusieurs œuvres dont _Contre Fauste le manichéen_.
+
+Dans l'hypothèse chrétienne, le corps ne peut pas être mauvais, puisqu'il a été créé par Dieu, et « _Dieu vit tout ce qu'il avait fait : cela était très bon_ (Genèse, 1, 31) ». Par méconnaissance, on confond donc souvent christianisme et manichéisme. Il est vrai que le chrétien doit gouverner son corps par son esprit, mais ce serait une erreur de croire que cela voudrait dire que le corps est mauvais.
+
+Ceux qui auraient du mal à le croire, pourraient aller étudier le concile de Braga qui a rejeter les hypothèses manichéennes et priscilliennes en 563. Outre le rejet de l'hypothèse que les âmes et les anges seraient une procession de la substance de Dieu (canon 235) et de l'hypothèse que le diable aurait créé le tonnerre, les éclairs, les tempêtes et les sécheresses (canon 237), voilà plus précisément ce qu'il dit dans ses canons 238 et 239 en rapport avec le corps :
+> « Si quelqu'un condamne le mariage humain et abhorre la procréation des enfants, comme Mani et Priscillien l'ont dit, qu'il soit anathème. »
+> « Si quelqu'un dit que la formation du corps humain est l'œuvre du diable et que la conception dans le sein maternel est le travail des démons, et si, pour ce motif, il ne croit pas à la résurrection de la chair, comme Mani et Priscillien l'ont dit, qu'il soit anathème. »
