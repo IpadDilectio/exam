@@ -9,7 +9,7 @@ Selon Xénophon dans ses _Mémorables_ (IV, 2, 24-25), c'est de l'oracle de Delp
 
 Même si on ne partage pas la pensée chrétienne de Bernard de Clairvaux, il est assez aisé cependant de reconnaître avec lui que les 2 causes de notre ignorance existe bel et bien. C'est pourquoi la question de savoir véritablement ce que nous sommes s'avère essentielle.
 
-Malheureusement, il existe plusieurs hypothèses difficile à partager. Le but de ce cours va être de vous en présenter un certain nombre pour que vous puissiez cheminer sur le chemin d'une meilleure connaissance de vous-même. Certaines hypothèses auront peut-être plus votre préférence que d'autres. Peu importe. Cependant, est-ce la satisfaction de notre préférence que nous cherchons, ou est-ce la vérité ?
+Dans la recherche de connaissance vis-à-vis de ce que nous sommes, il existe plusieurs hypothèses concernant le lien entre le corps et l'âme qui peuvent être assez difficile à départager. Le but de ce cours va être de vous en présenter un certain nombre pour que vous puissiez cheminer sur le chemin d'une meilleure connaissance de vous-même. Certaines hypothèses auront peut-être plus votre préférence que d'autres. Peu importe. Cependant, est-ce la satisfaction de notre préférence que nous cherchons, ou est-ce la vérité ? Il n'est pas simple de savoir si l'homme peut posséder ce genre de vérité. Cela ne veut pas dire non plus qu'il ne peut rien apprendre sur ce thème.
 
 ## Trois erreurs à éviter pour bien se repérer dans les différentes hypothèses
 
@@ -54,5 +54,18 @@ Augustin d'Hippone qui a fait partie de cette croyance pendant 9 ans l'a combatt
 Dans l'hypothèse chrétienne, le corps ne peut pas être mauvais, puisqu'il a été créé par Dieu, et « _Dieu vit tout ce qu'il avait fait : cela était très bon_ (Genèse, 1, 31) ». Par méconnaissance, on confond donc souvent christianisme et manichéisme. Il est vrai que le chrétien doit gouverner son corps par son esprit, mais ce serait une erreur de croire que cela voudrait dire que le corps est mauvais.
 
 Ceux qui auraient du mal à le croire, pourraient aller étudier le concile de Braga qui a rejeter les hypothèses manichéennes et priscilliennes en 563. Outre le rejet de l'hypothèse que les âmes et les anges seraient une procession de la substance de Dieu (canon 235) et de l'hypothèse que le diable aurait créé le tonnerre, les éclairs, les tempêtes et les sécheresses (canon 237), voilà plus précisément ce qu'il dit dans ses canons 238 et 239 en rapport avec le corps :
+
 > « Si quelqu'un condamne le mariage humain et abhorre la procréation des enfants, comme Mani et Priscillien l'ont dit, qu'il soit anathème. »
 > « Si quelqu'un dit que la formation du corps humain est l'œuvre du diable et que la conception dans le sein maternel est le travail des démons, et si, pour ce motif, il ne croit pas à la résurrection de la chair, comme Mani et Priscillien l'ont dit, qu'il soit anathème. »
+
+## L'hypothèse dualiste
+
+Dans cette hypothèse, l'homme serait composé de 2 substances distinctes et opposées. Cette hypothèse semble assez facile à concevoir car nous faisons assez facilement la distinction nous les phénomènes physiques ou corporels et les phénomènes mentaux, moraux ou affectifs qui sont des états de conscience et non des choses visibles et mesurables.
+
+Nous pouvons mettre en évidence 3 arguments issus de la tradition philosophique qui conduisent à émettre cette hypothèse.
+
+### L'expérience du doute méthodique de René Descartes
+
+### Les 3 mondes de Sir Karl Popper
+
+### La dimension morale d'Emmanuel Kant
