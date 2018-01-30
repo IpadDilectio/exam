@@ -66,6 +66,16 @@ Nous pouvons mettre en évidence 3 arguments issus de la tradition philosophique
 
 ### L'expérience du doute méthodique de René Descartes
 
+Dans son livre _Discours de la Méthode_, Descartes, philosophe français du XVIIème siècle (1595-1650), décide de rechercher une certitude absolue. Pour y accéder, il décide de douter de tout. Il décide de prendre le doute comme une méthode pour cheminer vers la vérité. On parle de **doute méthodique**, le doute comme méthode de recherche du vrai. Il se propose alors de soumettre chaque source de connaissance au doute.
+
+La première source de connaisance qui est la nôtre, ce sont nos sens. Les sensations nous informent en effet de la présence des objets qui nous entourent et nous informent aussi en partie de leur constitution. Il constate cependant que nos sens nous trompent parfois, par exemple, lorsqu'on plonge le manche d'une cuillère dans l'eau, ce manche apparaît déformé quand on le regarde à travers l'eau, alors qu'il ne l'est pas quand nous le regardons seulement à travers l'air. Il en déduit que les sensations ne sont pas fiables pour la recherche d'une connaissance certaine. Il met alors les informations qui nous viennent de notre corps entre parenthèse, il fait comme si nous n'en avions pas. Au XXème siècle, Edmund Husserl (1858, 1938) reprendra cette manière de faire, een désignant cette **mise entre parenthèse** par le terme d'**épochè**.
+
+La deuxième source de connaissance c'est notre raison. Or Descartes constate que nos faisons parfois des erreurs de raisonnements, on alors parle de **paralogisme** (des raisonnements qui ressemblent à des raisonnements mais qui sont faux d'un point de vue logique). Il remarque que nous pouvons même en faire dans des matières qu'il juge simple comme la géométrie. Il en déduit alors qu'il faut aussi mettre en parenthèses nos raisonnements, nos démonstrations.
+
+Il continue d'élargir son examen de ce qui permet d'avoir une connaissance de choses et constate que la conscience est une source de connaissance. Malheureusement, il constate aussi que nous rêvons et que parfois pendant nos rêves nous avons l'impression de vivre des choses qui pourtant ne sont pas réelles. Pendant le rêve nous sommes certains de vivre ces choses, mais au réveil, nous perdons cette certitude. Il en déduit que rien ne prouve que la certitude de l'état de veille est plus valable que la certitude de l'état de rêve. Peut-être alors que cette certitude de l'état de veille est elle aussi trompeuse. Il décide donc de faire la mise entre parenthèse des connaissances que nous donne la conscience.
+
+Mais que reste-t-il alors pour nous fournir une certitude ? La réponse surgit selon lui du doute lui-même : à l'instant où je doute, je ne puis douter que je doute, puisque si je le fais alors c'est que je doute. Or si je doute cela veut dire que je pense (**cogito** en latin, littéralement _j'agite ensemble ou  avec_), et si je pense alors c'est que je suis. D'où sa célèbre formule : **cogito ergo sum**, _je pense donc je suis_.
+
 ### Les 3 mondes de Sir Karl Popper
 
 ### La dimension morale d'Emmanuel Kant
