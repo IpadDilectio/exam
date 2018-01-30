@@ -5,7 +5,8 @@
 Selon Xénophon dans ses _Mémorables_ (IV, 2, 24-25), c'est de l'oracle de Delphes que Socrate a recueilli le célèbre précepte : **« Connais-toi toi-même »**. En interprétant cet ordre du Dieu Apollon comme un programme et une méthode, Socrate proposait à ses successeurs de travailler à se connaître afin de se rendre meilleur.
 
 Étienne Gilson dans son livre, _L'esprit de la philosophie médiévale_, au chap. XI, p. 221, nous fait connaître les interrogations que Bernard de Clairvaux (1090-1153) soulèvent face à cette réponse de l'oracle de Delphe :
->« Quel est, se demande-t-il, le sens de la réponse d'Apollon ? C'est qu'il y a 2 causes qui font que nous nous ignorons nous-mêmes : une timidité excessive qui nous porte à nous humilier outre mesure, une témérité plus dangereuse encore, qui nous invite à trop présumer de nous-mêmes. Orgueil et présomption, pusillanimité et désespoir de soi, voilà les deux dangers qui nous assiègent sans cesse ; on se débarrase de l'orgueil en s'éprouvant, de la pusillanimité en prenant conscience de notre vraie nature et le véritable terme de la connaissance de soi est de concilier ces deux aspects nécessaires du problème, en nous tenant à égale distance des deux aveuglements dont nous souffrons. On voit proindre ici, et même se dessiner déjà nettement, le thème que les historiens de la littérature connaissent bien pour l'avoir lu dans la langue magnifique de Pascal : _Grandeur et misère de l'homme_.
+
+> « Quel est, se demande-t-il, le sens de la réponse d'Apollon ? C'est qu'il y a 2 causes qui font que nous nous ignorons nous-mêmes : une timidité excessive qui nous porte à nous humilier outre mesure, une témérité plus dangereuse encore, qui nous invite à trop présumer de nous-mêmes. Orgueil et présomption, pusillanimité et désespoir de soi, voilà les deux dangers qui nous assiègent sans cesse ; on se débarrase de l'orgueil en s'éprouvant, de la pusillanimité en prenant conscience de notre vraie nature et le véritable terme de la connaissance de soi est de concilier ces deux aspects nécessaires du problème, en nous tenant à égale distance des deux aveuglements dont nous souffrons. On voit proindre ici, et même se dessiner déjà nettement, le thème que les historiens de la littérature connaissent bien pour l'avoir lu dans la langue magnifique de Pascal : _Grandeur et misère de l'homme_. »
 
 Même si on ne partage pas la pensée chrétienne de Bernard de Clairvaux, il est assez aisé cependant de reconnaître avec lui que les 2 causes de notre ignorance existe bel et bien. C'est pourquoi la question de savoir véritablement ce que nous sommes s'avère essentielle.
 
@@ -19,7 +20,7 @@ Cela nous empêche de nous repérer de manière adéquate car nous pouvons rejet
 
 Utiliser les vraies hypothèses chrétiennes en comparaison des autres hypothèses disponibles, permet il me semble, de former son esprit critique. En effet, n'avoir qu'une seule hypothèse serait réducteur, et rejeter les hypothèses chrétiennes parce qu'elles sont justement chrétiennes serait pour le moins étrange pour quelqu'un voulant former son esprit critique. Pour réellement choisir, ne faut-il pas avoir plusieurs possibilités ?
 
-Je vais donc essayer de vous aider à vous repérer en vous présentant plusieurs hypothèses, dont l'hypothèse chrétienne, mais pas seulement. Pour réaliser ce cours, j'essaie de faire la synthèse du chapitre V du livre de Jean-Marie Vernier, _De l'homme à Dieu et retour_, aux éditions L'Harmattan. 
+Je vais donc essayer de vous aider à vous repérer en vous présentant plusieurs hypothèses, dont l'hypothèse chrétienne, mais pas seulement. Pour réaliser ce cours, j'essaie de faire la synthèse du chapitre V du livre de Jean-Marie Vernier, _De l'homme à Dieu et retour_, aux éditions L'Harmattan.
 
 ### Confusion entre connaissance certaine et connaissance exhaustive
 
@@ -74,7 +75,7 @@ La deuxième source de connaissance c'est notre raison. Or Descartes constate qu
 
 Il continue d'élargir son examen de ce qui permet d'avoir une connaissance de choses et constate que la conscience est une source de connaissance. Malheureusement, il constate aussi que nous rêvons et que parfois pendant nos rêves nous avons l'impression de vivre des choses qui pourtant ne sont pas réelles. Pendant le rêve nous sommes certains de vivre ces choses, mais au réveil, nous perdons cette certitude. Il en déduit que rien ne prouve que la certitude de l'état de veille est plus valable que la certitude de l'état de rêve. Peut-être alors que cette certitude de l'état de veille est elle aussi trompeuse. Il décide donc de faire la mise entre parenthèse des connaissances que nous donne la conscience.
 
-Mais que reste-t-il alors pour nous fournir une certitude ? La réponse surgit selon lui du doute lui-même : à l'instant où je doute, je ne puis douter que je doute, puisque si je le fais alors c'est que je doute. Or si je doute cela veut dire que je pense (**cogito** en latin, littéralement _j'agite ensemble ou  avec_), et si je pense alors c'est que je suis. D'où sa célèbre formule : **cogito ergo sum**, _je pense donc je suis_.
+Mais que reste-t-il alors pour nous fournir une certitude ? La réponse surgit selon lui du doute lui-même : à l'instant où je doute, je ne puis douter que je doute, puisque si je le fais alors c'est que je doute. Or si je doute cela veut dire que je pense (**cogito** en latin, littéralement _j'agite ensemble ou avec_), et si je pense alors c'est que je suis. D'où sa célèbre formule : **cogito ergo sum**, _je pense donc je suis_.
 
 ### Les 3 mondes de Sir Karl Popper
 
