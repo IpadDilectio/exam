@@ -78,11 +78,12 @@ Il continue d'élargir son examen de ce qui permet d'avoir une connaissance de c
 Mais que reste-t-il alors pour nous fournir une certitude ? La réponse surgit selon lui du doute lui-même : à l'instant où je doute, je ne puis douter que je doute, puisque si je le fais alors c'est que je doute. Or si je doute cela veut dire que je pense (**cogito** en latin, littéralement _j'agite ensemble ou avec_), et si je pense alors c'est que je suis. D'où sa célèbre formule : **cogito ergo sum**, _je pense donc je suis_. Le fait que je suis en train de penser, prouve de manière absolument certaine que j’existe.
 Il se demande alors en réfléchissant à cette première découverte ce qu’il est lui-même, et répond qu’il est une **res cogitans**, une chose qui pense. Il en déduit que ce « **je pensant** » est une **substance**. Il définit le mot substance comme désignant ce qui n’a besoin que de soi-même et le concours de Dieu pour exister. Il en déduit donc que cette substance est un être complet dont la nature est entièrement distincte du corps.
 Cette substance pensante, « moi-même ou mon âme » dit Descartes, gouverne ce que je nomme mon corps dont l’existence sera prouvée plus tard grâce au constat de la présence d’idée (adventices) que nous recevons des sensations. Il distingue d’ailleurs 3 types d’idées :
-		1. Le idées adventices qui viennent de nos sens (nous recevons ses idées) ;
-		2. Les idées factices qui sont produites par notre imagination (nous sommes actifs dans cette production) ;
-		3. Les idées innées que nous découvrons par simple retour de la pensée sur elle-même (nous constatons leur existence en nous).
-Le corps n’est selon lui caractérisé que par l’étendue, c’est-à-dire la dimension géométrique.
-Ainsi l’homme est composé selon Descartes de 2 substances, la pensée et l’étendue. Ces 2 substances n’ont rien en commun. On peut parler alors de dualisme : l’homme a un corps et une âme, sachant que le corps et l’âme sont totalement différents quant à leur nature.
+
+1. Le idées adventices qui viennent de nos sens (nous recevons ses idées).
+2. Les idées factices qui sont produites par notre imagination (nous sommes actifs dans cette production).
+3. Les idées innées que nous découvrons par simple retour de la pensée sur elle-même (nous constatons leur existence en nous).
+
+Le corps n’est selon lui caractérisé que par l’étendue, c’est-à-dire la dimension géométrique. Ainsi l’homme est composé selon Descartes de 2 substances, la pensée et l’étendue. Ces 2 substances n’ont rien en commun. On peut parler alors de dualisme : l’homme a un corps et une âme, sachant que le corps et l’âme sont totalement différents quant à leur nature.
 
 ### Les 3 mondes de Sir Karl Popper
 
