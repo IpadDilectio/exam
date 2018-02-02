@@ -1,4 +1,5 @@
 # Ne suis-je qu’un ensemble de molécules ?
+Parler de Plotin en s’appuyant sur Claude Tresmontant.
 
 ## Introduction
 
@@ -86,5 +87,6 @@ Cette substance pensante, « moi-même ou mon âme » dit Descartes, gouverne ce
 Le corps n’est selon lui caractérisé que par l’étendue, c’est-à-dire la dimension géométrique. Ainsi l’homme est composé selon Descartes de 2 substances, la pensée et l’étendue. Ces 2 substances n’ont rien en commun. On peut parler alors de dualisme : l’homme a un corps et une âme, sachant que le corps et l’âme sont totalement différents quant à leur nature.
 
 ### Les 3 mondes de Sir Karl Popper
+Essai pour voir
 
 ### La dimension morale d'Emmanuel Kant
