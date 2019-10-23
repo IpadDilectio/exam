@@ -2,6 +2,8 @@
 
 Parler de Plotin en s’appuyant sur Claude Tresmontant.
 
+Juste un petit changement ici pour voir si cela fonctionne avec GIT.
+
 ## Introduction
 
 Selon Xénophon dans ses _Mémorables_ (IV, 2, 24-25), c'est de l'oracle de Delphes que Socrate a recueilli le célèbre précepte : **« Connais-toi toi-même »**. En interprétant cet ordre du Dieu Apollon comme un programme et une méthode, Socrate proposait à ses successeurs de travailler à se connaître afin de se rendre meilleur.
